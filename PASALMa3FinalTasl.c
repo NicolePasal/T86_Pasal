@@ -38,7 +38,7 @@ if(payment>=120)
 {
 change = payment - price;
 printf("Change: Php%d", change);
-printf("\n         Thank you!\nYou have successfully purchased Pepsi\n....Enjoy!");
+printf("\n         Thank you!\nYou have successfully purchased Dr.Pepper\n....Enjoy!");
 }
 else
 {
@@ -55,7 +55,7 @@ if(payment>=95)
 {
 change = payment - price;
 printf("Change: Php%d", change);
-printf("\n         Thank you!\nYou have successfully purchased Pepsi\n....Enjoy!");
+printf("\n         Thank you!\nYou have successfully purchased Coca-Cola\n....Enjoy!");
 }
 else
 {
